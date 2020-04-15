@@ -71,3 +71,6 @@ API
 Training
 Blog
 About
+
+# Ignore API keys and secrets
+.env
